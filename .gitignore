@@ -1,0 +1,14 @@
+.installed.cfg
+.mr.developer.cfg
+src
+bin
+eggs
+develop-eggs
+parts
+var
+coverage
+*.pyc
+*.pyo
+.python
+include
+lib
